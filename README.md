@@ -5,4 +5,6 @@ Horizontal Sync Circuit and Vertical Sync Circuit are used to access the data bi
 
 The final design (combination of H-Sync and V-Sync) is a prototype and is not functional as VGA (DE-15) model and Display model were not available in Proteus. 
 
+Design Inspired from Ben Eater https://eater.net/vga
+
 
