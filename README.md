@@ -1,5 +1,5 @@
 # Video-Card
-This repository contains schematic for a Video Card developed using Proteus  
+This repository contains schematic for a Video Card developed using Proteus 8 Professional
 
 Horizontal Sync Circuit and Vertical Sync Circuit are used to access the data bits stored in EEPROM which would be displayed on a monitor. The images of timing diagram as observed from the Oscilloscope is attached in the images section for reference
 
